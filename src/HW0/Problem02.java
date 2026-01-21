@@ -1,3 +1,4 @@
+package HW0;
 public class Problem02 {
     public static void main(String[] args) {
         int a = 37;

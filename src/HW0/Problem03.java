@@ -1,3 +1,4 @@
+package HW0;
 public class Problem03 {
     public static void main(String[] args) {
         System.out.println("Hypothesis:");

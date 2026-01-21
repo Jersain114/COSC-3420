@@ -1,3 +1,4 @@
+package HW0;
 public class Problem09 {
 
     // The method from the assignment (kept as-is, only formatting adjusted)
